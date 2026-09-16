@@ -8,3 +8,6 @@ Survey data, interview transcripts, consent forms, and photos or other media con
 
 3.Why is a good naming convention important?
 I think clear and consistent filenames make it easier to identify, sort and find files. Including a topic, date or version number also helps avoid confusion between different copies. 
+
+4.Under what scenarios, creating a new branch would be useful (2-3 sentences)?
+Creating a new branch is useful when you want to develop a new feature or experiment without affecting the stable/main version of the project. It is also helpful when fixing bugs or when multiple team members are working on different tasks at the same time.
